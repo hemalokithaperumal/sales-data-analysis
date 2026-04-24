@@ -16,9 +16,10 @@ Analyze sales data to identify trends, top-performing products, and city-wise pe
 - Matplotlib
 
 ## Key Insights
-- Identified highest selling product
-- Found top performing city
-- Observed monthly sales growth trends
+- Laptop generated highest revenue among all products
+- Chennai contributed the highest sales
+- Sales showed growth from January to March
+
 
 ## How to Run
 1. Download the dataset
