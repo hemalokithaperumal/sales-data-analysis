@@ -1,5 +1,12 @@
 # Sales Data Analysis Project
 This project analyzes sales data using Python.
+## Problem Statement
+The goal of this project is to analyze sales data and extract meaningful insights such as top-performing products, revenue trends, and city-wise performance.
+
+## Key Insights
+- Identified best selling product
+- Found highest revenue generating city
+- Analyzed monthly sales growth trends
 
 ## Features
 - Total sales calculation
@@ -12,6 +19,9 @@ This project analyzes sales data using Python.
 - Python
 - Pandas
 - Matplotlib
+  
+
+
 
 ## Project Description:
 In this project, I worked with a sales dataset and performed data analysis to extract meaningful insights. I calculated total revenue, identified top-performing products and cities, and visualized monthly trends.
